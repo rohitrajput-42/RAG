@@ -15,7 +15,7 @@ index = faiss.read_index("index.faiss")
 
 
 llm_client = OpenAI(
-    api_key="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",
+    api_key="", #Add API key here#
     base_url="https://api.groq.com/openai/v1",
 )
 
